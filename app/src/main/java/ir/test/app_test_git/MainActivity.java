@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //dfsdfsdfsdfsd
         //dfsdfsdfsdfsd
         Toast.makeText(this, "test04", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "test04", Toast.LENGTH_SHORT).show();
     }
 }
